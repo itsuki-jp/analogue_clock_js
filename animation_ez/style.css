@@ -1,0 +1,25 @@
+span {
+    display: inline-block;
+    width: 100px;
+    margin: 50px;
+    height: 100px;
+    margin: 30px;
+    background: gold;
+}
+
+#box1 {
+    animation: 3s linear infinite rotation1;
+}
+
+#box2 {
+    animation: 4s linear infinite rotation1;
+}
+
+@keyframes rotation1 {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
