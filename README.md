@@ -4,4 +4,4 @@
 
 長針、短針、秒針がある普通のアナログ時計  
 時計はcanvasで描写した
-<img src="https://github.com/itsuki-jp/analogue_clock_js/tree/master/img/screenShot.png" alt="screenshot" title="screenshot">
+<img src="https://github.com/itsuki-jp/analogue_clock_js/blob/master/img/screenShot.png?raw=true" alt="screenshot" title="screenshot">
